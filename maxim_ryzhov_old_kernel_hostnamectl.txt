@@ -1,0 +1,9 @@
+   Static hostname: terrarium.lan
+         Icon name: computer-desktop
+           Chassis: desktop
+        Machine ID: 7914337ac26e4dbcaff45f7ed7633f1a
+           Boot ID: d8fade8f9cca45bc9f0b6634ad538160
+  Operating System: CentOS Linux 7 (Core)
+       CPE OS Name: cpe:/o:centos:centos:7
+            Kernel: Linux 3.10.0-957.el7.x86_64
+      Architecture: x86-64
